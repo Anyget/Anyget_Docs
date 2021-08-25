@@ -48,10 +48,10 @@ Anygetにおける作業は、基本的に以下の流れに沿って行われ�
 
 メインパネルの「セーブ/ロード」モードを開き、ファイル名を入力して「セーブ」することで、`.json`形式でファイルをセーブできます。
 
-![セーブする](/docs/assets/animations/save.gif)
+![セーブする](../assets/animations/save.gif)
 
 タブを閉じる際、ブラウザのlocalStorageに5件までのセーブデータを保存する機能もあります。
 
 このlocalStorageのデータは、スタートメニューなどからロードすることが可能です。
 
-![セッションのロード](/docs/assets/animations/sessionload.gif)
+![セッションのロード](../assets/animations/sessionload.gif)

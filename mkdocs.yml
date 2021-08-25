@@ -1,3 +1,14 @@
+site_name: Anyget
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary:  #efefef
+    accent: #485269
+  features:
+    - tabs
+
 nav:
   - トップページ: index.md
   - チュートリアル:
