@@ -1,0 +1,12 @@
+nav:
+  - トップページ: index.md
+  - チュートリアル:
+    - 0. イントロダクション: Tutorial/00_Introduction.md
+    - 1. 作業の流れ: Tutorial/01_Basic.md
+    - 2. 投稿を操作する: Tutorial/02_Control.md
+    - 3. テンプレートについて: Tutorial/03_Template.md
+  - リファレンス:
+    - メインパネル: Reference/MainPanel.md
+    - サブパネル: Reference/SubPanels.md
+    - テンプレート: Reference/Template.md
+    - ショートカット: Reference/ShortCut.md
