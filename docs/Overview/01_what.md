@@ -14,6 +14,7 @@
 
 - https://qwegat.github.io/Anyget/
 
-## 推奨ブラウザ
+## 推奨環境
 
+- PC
 - Google Chrome
