@@ -15,13 +15,13 @@
 - そうでなければ：
   - 自分の選択状態を反転する。
 
-![左クリックによる選択](../assets/animations/select1.gif)
+![左クリックによる選択](/docs/assets/animations/select1.gif)
 
 ## `Ctrl`+左クリック
 
 - 自分の選択状態を反転する。
 
-![Ctrl+左クリックによる選択](../assets/animations/select2.gif)
+![Ctrl+左クリックによる選択](/docs/assets/animations/select2.gif)
 
 ## `Shift`+左クリック
 
@@ -31,10 +31,10 @@
   - また、自分より下に選択状態の投稿がある場合：
     - 自分から、自分より下にある選択状態の投稿のうち、最も自分と近い物までの投稿を、すべて選択状態にする。
 
-![Shift+左クリックによる選択](../assets/animations/select3.gif) 
+![Shift+左クリックによる選択](/docs/assets/animations/select3.gif) 
 
 ## `Ctrl`+`Shift`+左クリック
 
 - 自分を選択する。
 
-![Ctrl+Shift+左クリックによる選択](../assets/animations/select4.gif)
+![Ctrl+Shift+左クリックによる選択](/docs/assets/animations/select4.gif)
