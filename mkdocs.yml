@@ -1,5 +1,4 @@
-site_name: Anyget
-
+site_name: ">>Anyget"
 theme:
   name: material
   language: en
@@ -8,6 +7,16 @@ theme:
     accent: #485269
   features:
     - tabs
+
+plugins:
+  - search:
+      lang:
+      - ja
+      prebuild_index: true
+      separator: '[\s\-\.]+'
+
+extra_css:
+  - extra_style.css
 
 nav:
   - トップページ: index.md
@@ -20,4 +29,5 @@ nav:
     - メインパネル: Reference/MainPanel.md
     - サブパネル: Reference/SubPanels.md
     - テンプレート: Reference/Template.md
+    - 設定: Reference/Settings.md
     - ショートカット: Reference/ShortCut.md
