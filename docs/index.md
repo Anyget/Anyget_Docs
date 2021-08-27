@@ -2,7 +2,7 @@
 ***この説明書は未完成です***
 ## 概要
 
-Web特有の小説形式、『架空掲示板』の執筆を支援するツール[&gt;&gt;Anyget](https://qwegat.github.io/Anyget/)の説明書です。
+Web特有の小説形式、『架空掲示板』の執筆を支援するツール[&gt;&gt;Anyget](https://anyget.github.io/)の説明書です。
 
 まだユーザーが僅かなので、そこまで詳細な内容は記載されません。
 

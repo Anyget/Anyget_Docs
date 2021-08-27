@@ -1,7 +1,7 @@
 # 1. 作業の流れ
 Anygetにおける作業は、基本的に以下の流れに沿って行われます。
 
-1. [サイト](https://qwegat.github.io/Anyget/)にアクセスする
+1. [サイト](https://anyget.github.io/)にアクセスする
 2. **初期設定**を済ませる
 3. 執筆する
 4. 作品を**出力**する
@@ -10,7 +10,7 @@ Anygetにおける作業は、基本的に以下の流れに沿って行われ�
 
 ## 1.1 サイトにアクセスする
 
-[https://qwegat.github.io/Anyget/](https://qwegat.github.io/Anyget/)を開きます。
+[https://anyget.github.io/](https://anyget.github.io/)を開きます。
 
 初期状態では、アクセス時の画面には**スタートメニュー**が表示されています。
 

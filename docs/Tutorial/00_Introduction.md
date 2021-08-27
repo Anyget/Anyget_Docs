@@ -20,9 +20,13 @@
 
 ### URL
 
-- [https://qwegat.github.io/Anyget/](https://qwegat.github.io/Anyget/)
+- [https://anyget.github.io/](https://anyget.github.io/)
 
 ### 推奨環境
 
 - PC
 - Google Chrome
+
+### その他リンク
+
+- メール：[AnygetBBS@gmail.com](<mailto:AnygetBBS@gmail.com>)
