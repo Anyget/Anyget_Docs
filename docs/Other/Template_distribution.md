@@ -10,5 +10,5 @@
 ## 配布物
 
 ### 01. ハーメルンの掲示板形式機能対応テンプレート
-- [ダウンロードリンク](attach:../assets/tempdists/01_MiracleAge.json)
+- <a href="../../assets/tempdists/01_MiracleAge.json" download="true">ダウンロードリンク</a>
 - ハーメルンにAnygetの作品例として投稿した『[〈ミラクルエイジ・オンライン〉不具合報告掲示板](https://syosetu.org/novel/267717/)』を執筆する際に利用したテンプレートです。ハーメルンの『掲示板形式』機能を前提に組まれているため、その他の小説投稿サイトで使用するには多少の編集が必要です。
