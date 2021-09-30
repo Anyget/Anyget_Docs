@@ -31,3 +31,5 @@ nav:
     - テンプレート: Reference/Template.md
     - 設定: Reference/Settings.md
     - ショートカット: Reference/ShortCut.md
+  - その他:
+    - テンプレートの配布: Other/Template_distribution.md

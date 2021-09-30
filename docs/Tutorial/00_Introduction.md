@@ -30,3 +30,4 @@
 ### その他リンク
 
 - メール：[AnygetBBS@gmail.com](<mailto:AnygetBBS@gmail.com>)
+- 作品例：[〈ミラクルエイジ・オンライン〉不具合報告掲示板 - ハーメルン](https://syosetu.org/novel/267717/)
